@@ -3,6 +3,10 @@
 # env
 .env
 
+#firebase
+.firebase
+.firebaserc
+
 # dependencies
 /node_modules
 /.pnp
